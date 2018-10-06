@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "热线辅导",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180720.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/cc20180720/cc/cc180720.mp3",
-		"id": 15180720
-	},
-	{
 		"time": "20180719",
 		"title": "热线辅导：婚姻家庭、亲子教育",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180719.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cc20181006/cc/cc181006.mp3",
 		"id": 15181006
+	},
+	{
+		"time": "20181007",
+		"title": "心存主道：传道书（3）（郑子民）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181007.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cc20181007/cc/cc181007.mp3",
+		"id": 15181007
 	}
 ]
