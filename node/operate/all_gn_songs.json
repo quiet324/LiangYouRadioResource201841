@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "来亲近耶稣──周芸建的故事（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/gn20180702/gn/gn180702.mp3",
-		"id": 22180702
-	},
-	{
 		"time": "20180703",
 		"title": "主你知道我──简铭兴的故事（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180703.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181008/gn/gn181008.mp3",
 		"id": 22181008
+	},
+	{
+		"time": "20181009",
+		"title": "从怀疑到相信──姜文琪姊妹的故事（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181009.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181009/gn/gn181009.mp3",
+		"id": 22181009
 	}
 ]
