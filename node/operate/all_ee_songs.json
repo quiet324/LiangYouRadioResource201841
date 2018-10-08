@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180703",
-		"title": "静夜亮光：圣灵在我们身上的工作；不再孤独走一生：当归向神",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180703.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ee20180703/ee/ee180703.mp3",
-		"id": 29180703
-	},
-	{
 		"time": "20180704",
 		"title": "静夜亮光：在你的光中，我们必得见光；不再孤独走一生：从约瑟身上，学习人生大学里的必修课（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180704.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181008/ee/ee181008.mp3",
 		"id": 29181008
+	},
+	{
+		"time": "20181009",
+		"title": "绽放生命的光芒：宾路易师母（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181009.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181009/ee/ee181009.mp3",
+		"id": 29181009
 	}
 ]
