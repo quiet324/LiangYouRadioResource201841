@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "将自己献上当作活祭（创8:13-22）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/mw20180702/mw/mw180702.mp3",
-		"id": 30180702
-	},
-	{
 		"time": "20180703",
 		"title": "超越环境的信心（诗3篇）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180703.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181007/mw/mw181007.mp3",
 		"id": 30181007
+	},
+	{
+		"time": "20181008",
+		"title": "全献在坛上（创22:1-14）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181008/mw/mw181008.mp3",
+		"id": 30181008
 	}
 ]
