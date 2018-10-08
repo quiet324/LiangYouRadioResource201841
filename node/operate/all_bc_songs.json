@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "黑暗中的舞者：第七章、迟到十年的接纳；第八章、在黑暗中不断进步-1",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180629.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/bc20180629/bc/bc180629.mp3",
-		"id": 10180629
-	},
-	{
 		"time": "20180702",
 		"title": "信心日引：试探的型态（创3:6）；大阅读家：简介、序言",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180702.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181005/bc/bc181005.mp3",
 		"id": 10181005
+	},
+	{
+		"time": "20181008",
+		"title": "信心日引：神对我们的接纳（创4:4-5）；俗世圣徒：第七章、旷野-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181008/bc/bc181008.mp3",
+		"id": 10181008
 	}
 ]
