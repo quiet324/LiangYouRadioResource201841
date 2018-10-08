@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "信心日引：试探的型态（创3:6）；大阅读家：简介、序言",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/bc20180702/bc/bc180702.mp3",
-		"id": 10180702
-	},
-	{
 		"time": "20180703",
 		"title": "信心日引：荣耀之前必有患难（创41:51-52）；大阅读家：简介、序言",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180703.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181008/bc/bc181008.mp3",
 		"id": 10181008
+	},
+	{
+		"time": "20181009",
+		"title": "信心日引：没有言词的祷告（犹20节）；俗世圣徒：第七章、旷野-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181009.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181009/bc/bc181009.mp3",
+		"id": 10181009
 	}
 ]
