@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "绝妙一周乐：你是我的上帝",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/yu20180702/yu/yu180702.mp3",
-		"id": 7180702
-	},
-	{
 		"time": "20180703",
 		"title": "绝妙生活系列：财富（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180703.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/yu20181007/yu/yu181007.mp3",
 		"id": 7181007
+	},
+	{
+		"time": "20181008",
+		"title": "绝妙一周乐：Here I am",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/yu20181008/yu/yu181008.mp3",
+		"id": 7181008
 	}
 ]
