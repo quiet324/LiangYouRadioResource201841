@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "扭一扭新闻蛋：孩子，小心便秘！",
-		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180629.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 2,
-		"artistName": "欢乐卡恰碰",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/hg20180629/hg/hg180629.mp3",
-		"id": 2180629
-	},
-	{
 		"time": "20180702",
 		"title": "幸福大转盘：那一年我们去看电影",
 		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180702.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "欢乐卡恰碰",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/hg20181005/hg/hg181005.mp3",
 		"id": 2181005
+	},
+	{
+		"time": "20181008",
+		"title": "幸福大转盘：“烤”圣经！",
+		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 2,
+		"artistName": "欢乐卡恰碰",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/hg20181008/hg/hg181008.mp3",
+		"id": 2181008
 	}
 ]
