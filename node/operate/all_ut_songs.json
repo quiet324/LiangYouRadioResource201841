@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "生活百花园：借着祷告告诉神",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180629.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ut20180629/ut/ut180629.mp3",
-		"id": 18180629
-	},
-	{
 		"time": "20180702",
 		"title": "为神建立家室：真正的朋友",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180702.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ut20181005/ut/ut181005.mp3",
 		"id": 18181005
+	},
+	{
+		"time": "20181008",
+		"title": "情感交流站：温和的言语",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ut20181008/ut/ut181008.mp3",
+		"id": 18181008
 	}
 ]
