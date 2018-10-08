@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180701",
-		"title": "良院讲台：牧者的心（徒20:25-38；讲员：卢文牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180701.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ds20180701/ds/ds180701.mp3",
-		"id": 46180701
-	},
-	{
 		"time": "20180702",
 		"title": "良院专区：学习天地；公布《旧约历史书II》和《单身事工》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180702.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181006/ds/ds181006.mp3",
 		"id": 46181006
+	},
+	{
+		"time": "20181007",
+		"title": "良院讲台：面对逆境（徒8:1-4，诗29:9-10；讲员：卢文）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181007.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181007/ds/ds181007.mp3",
+		"id": 46181007
 	}
 ]
