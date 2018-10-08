@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "静夜亮光：信而受洗的，必然得救；不再孤独走一生：基督徒啊，要天天研读圣经",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ee20180702/ee/ee180702.mp3",
-		"id": 29180702
-	},
-	{
 		"time": "20180703",
 		"title": "静夜亮光：圣灵在我们身上的工作；不再孤独走一生：当归向神",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180703.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181007/ee/ee181007.mp3",
 		"id": 29181007
+	},
+	{
+		"time": "20181008",
+		"title": "寻找生命的真光：我所要的，男人和金钱那里没有",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ee20181008/ee/ee181008.mp3",
+		"id": 29181008
 	}
 ]
