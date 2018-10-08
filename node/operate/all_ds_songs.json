@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180702",
-		"title": "良院专区：学习天地；公布《旧约历史书II》和《单身事工》考题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180702.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ds20180702/ds/ds180702.mp3",
-		"id": 46180702
-	},
-	{
 		"time": "20180703",
 		"title": "教牧新视野：向保罗学习训练门徒（上）（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180703.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181007/ds/ds181007.mp3",
 		"id": 46181007
+	},
+	{
+		"time": "20181008",
+		"title": "良院专区：公布9月19日至22日“向老师致敬”答案；公布《保罗书信II》、《罗马书》考题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181008/ds/ds181008.mp3",
+		"id": 46181008
 	}
 ]
