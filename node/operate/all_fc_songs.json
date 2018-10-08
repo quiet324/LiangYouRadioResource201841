@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "合租集体宿舍：如何面试一位好室友？",
-		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180629.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 6,
-		"artistName": "微播出炉",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/fc20180629/fc/fc180629.mp3",
-		"id": 6180629
-	},
-	{
 		"time": "20180702",
 		"title": "微专栏：听我所爱，讲你所想",
 		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180702.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "微播出炉",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/fc20181005/fc/fc181005.mp3",
 		"id": 6181005
+	},
+	{
+		"time": "20181008",
+		"title": "微专栏：在一群叔叔之中（万峰）；关于朋友（于欣甜）；是真还是假（苏小燕）",
+		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc181008.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 6,
+		"artistName": "微播出炉",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/fc20181008/fc/fc181008.mp3",
+		"id": 6181008
 	}
 ]
