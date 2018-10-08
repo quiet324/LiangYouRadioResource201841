@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180701",
-		"title": "战场的英雄（西2:13-19）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180701.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/mw20180701/mw/mw180701.mp3",
-		"id": 30180701
-	},
-	{
 		"time": "20180702",
 		"title": "将自己献上当作活祭（创8:13-22）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180702.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181006/mw/mw181006.mp3",
 		"id": 30181006
+	},
+	{
+		"time": "20181007",
+		"title": "我有牧者乃耶和华（诗23篇）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181007.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181007/mw/mw181007.mp3",
+		"id": 30181007
 	}
 ]
