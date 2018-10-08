@@ -29539,5 +29539,8 @@
 	},
 	{
 		"fileName": "../operate/all_tr20181008_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ws20181008_songs.json"
 	}
 ]
