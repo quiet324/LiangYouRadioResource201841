@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "母子两地书：理性和感性都可以培养──要理性还是要感性？其实要看怎样的场合，面对怎样的事情……处理人际关系矛盾，既需要理性，也需要感性，所幸的是这两者都可以培养。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180629.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/im20180629/im/im180629.mp3",
-		"id": 14180629
-	},
-	{
 		"time": "20180702",
 		"title": "心磁场大平台：生命有时、恋爱有时、死亡有时……──在美丽的巴尔干半岛上，46岁的女敲钟人终于等来了她的爱情……父亲去世了，可他竟然在父亲的葬礼上，对着亲人们说出这样一番话来……其实，生有时、死有时……天下万务都有定时，并按其时成为美好。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180702.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181005/im/im181005.mp3",
 		"id": 14181005
+	},
+	{
+		"time": "20181008",
+		"title": "信仰大擂台：基督徒的工作观之原则与规则──工作是生活的一部分，还是生活是工作的一部分？人为什么而工作？从原则与规则的角度，职场顾问谈基督徒与非基督徒的工作观在本质上的不同：一个天定，一个人定，你愿意遵循哪一个？",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181008.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/im20181008/im/im181008.mp3",
+		"id": 14181008
 	}
 ]
