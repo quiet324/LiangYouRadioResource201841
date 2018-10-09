@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180703",
-		"title": "信心日引：荣耀之前必有患难（创41:51-52）；大阅读家：简介、序言",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180703.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/bc20180703/bc/bc180703.mp3",
-		"id": 10180703
-	},
-	{
 		"time": "20180704",
 		"title": "信心日引：彼此服事（加5:13）；大阅读家：第一章、纸浆与蚀刻花岗岩-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180704.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181009/bc/bc181009.mp3",
 		"id": 10181009
+	},
+	{
+		"time": "20181010",
+		"title": "信心日引：基督永远掌权（代上17:13）；俗世圣徒：第八章、美-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181010.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/bc20181010/bc/bc181010.mp3",
+		"id": 10181010
 	}
 ]
