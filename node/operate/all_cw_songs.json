@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180703",
-		"title": "弹指之间：《万物的结局近了》、《我怎能不为主活》、《我愿奉献我一生》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180703.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/cw20180703/cw/cw180703.mp3",
-		"id": 51180703
-	},
-	{
 		"time": "20180704",
 		"title": "心歌心曲：席丝‧薇娜斯《嘿！撒但》、《奔向他》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180704.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181009/cw/cw181009.mp3",
 		"id": 51181009
+	},
+	{
+		"time": "20181010",
+		"title": "心歌心曲：以歌声荣耀主名──谭力诗姊妹专访《奇迹》、《得着能力》、In Your Love",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181010.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181010/cw/cw181010.mp3",
+		"id": 51181010
 	}
 ]
