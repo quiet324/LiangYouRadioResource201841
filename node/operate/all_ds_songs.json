@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180704",
-		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180704.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ds20180704/ds/ds180704.mp3",
-		"id": 46180704
-	},
-	{
 		"time": "20180705",
 		"title": "宣教心之路：中国跨文化宣教的现况（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180705.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181009/ds/ds181009.mp3",
 		"id": 46181009
+	},
+	{
+		"time": "20181010",
+		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181010.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ds20181010/ds/ds181010.mp3",
+		"id": 46181010
 	}
 ]
