@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180706",
-		"title": "信仰Q&A：基督徒应该如何对待其他宗教？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180706.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 3,
-		"artistName": "天使夜未眠",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ka20180706/ka/ka180706.mp3",
-		"id": 3180706
-	},
-	{
 		"time": "20180707",
 		"title": "你我祂的故事：和耶稣同赴天国筵席吧",
 		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka180707.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "天使夜未眠",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ka20181010/ka/ka181010.mp3",
 		"id": 3181010
+	},
+	{
+		"time": "20181011",
+		"title": "回收人生ing：走出同志疑云──祈帆（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ka/ka181011.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 3,
+		"artistName": "天使夜未眠",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ka20181011/ka/ka181011.mp3",
+		"id": 3181011
 	}
 ]
