@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180706",
-		"title": "皮小弟与妙阿姨：长子的名份（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180706.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/pc20180706/pc/pc180706.mp3",
-		"id": 17180706
-	},
-	{
 		"time": "20180707",
 		"title": "圣经好好听：使徒们一一殉道",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180707.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/pc20181011/pc/pc181011.mp3",
 		"id": 17181011
+	},
+	{
+		"time": "20181012",
+		"title": "皮小弟与妙阿姨：开路先锋（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181012.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/pc20181012/pc/pc181012.mp3",
+		"id": 17181012
 	}
 ]
