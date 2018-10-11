@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "来吧赞美：《快乐歌》、《复兴圣洁》、《使我作你和平之子》、《差遣我》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180705.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/cw20180705/cw/cw180705.mp3",
-		"id": 51180705
-	},
-	{
 		"time": "20180706",
 		"title": "赞美旋律：贝多芬庄严弥撒之《垂怜经》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181011/cw/cw181011.mp3",
 		"id": 51181011
+	},
+	{
+		"time": "20181012",
+		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181012.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/cw20181012/cw/cw181012.mp3",
+		"id": 51181012
 	}
 ]
