@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "生活百花园：持之以恒读圣经",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180705.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ut20180705/ut/ut180705.mp3",
-		"id": 18180705
-	},
-	{
 		"time": "20180706",
 		"title": "情感交流站：活出应有的生活样式",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ut20181011/ut/ut181011.mp3",
 		"id": 18181011
+	},
+	{
+		"time": "20181012",
+		"title": "生活百花园：时刻看顾",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181012.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ut20181012/ut/ut181012.mp3",
+		"id": 18181012
 	}
 ]
