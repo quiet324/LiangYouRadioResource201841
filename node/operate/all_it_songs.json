@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "凡事谢恩（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180705.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/it20180705/it/it180705.mp3",
-		"id": 41180705
-	},
-	{
 		"time": "20180706",
 		"title": "停不了的恩典",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/it20181011/it/it181011.mp3",
 		"id": 41181011
+	},
+	{
+		"time": "20181012",
+		"title": "实话实说（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181012.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/it20181012/it/it181012.mp3",
+		"id": 41181012
 	}
 ]
