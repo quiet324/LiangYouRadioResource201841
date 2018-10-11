@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "为主来梦想──简铭兴的故事（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180705.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/gn20180705/gn/gn180705.mp3",
-		"id": 22180705
-	},
-	{
 		"time": "20180706",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181011/gn/gn181011.mp3",
 		"id": 22181011
+	},
+	{
+		"time": "20181012",
+		"title": "生命之歌",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181012.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/gn20181012/gn/gn181012.mp3",
+		"id": 22181012
 	}
 ]
