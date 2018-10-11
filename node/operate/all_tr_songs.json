@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "诗歌欣赏：《只要耶稣》、《在基督里有平安》、《永远不分离》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180705.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/tr20180705/tr/tr180705.mp3",
-		"id": 52180705
-	},
-	{
 		"time": "20180706",
 		"title": "野地的花小语：人不喜欢祷告，因为“自己”没有“成就感”；人喜欢祷告，因为神什么都能！",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/tr20181011/tr/tr181011.mp3",
 		"id": 52181011
+	},
+	{
+		"time": "20181012",
+		"title": "野地的花小语：交神手中人生的高低起落，都会谱成动人的乐章……",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181012.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/tr20181012/tr/tr181012.mp3",
+		"id": 52181012
 	}
 ]
