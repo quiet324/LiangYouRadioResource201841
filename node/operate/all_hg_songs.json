@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180705",
-		"title": "树墩子学校：森林徒步穿越",
-		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180705.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 2,
-		"artistName": "欢乐卡恰碰",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/hg20180705/hg/hg180705.mp3",
-		"id": 2180705
-	},
-	{
 		"time": "20180706",
 		"title": "扭一扭新闻蛋：家里有怪物！",
 		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180706.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "欢乐卡恰碰",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/hg20181011/hg/hg181011.mp3",
 		"id": 2181011
+	},
+	{
+		"time": "20181012",
+		"title": "卡恰碰侦探事务所：都是干燥剂惹的祸",
+		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg181012.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 2,
+		"artistName": "欢乐卡恰碰",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/hg20181012/hg/hg181012.mp3",
+		"id": 2181012
 	}
 ]
