@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180707",
-		"title": "学道篇：研经与释经──上文下理实例（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180707.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/ynf20180707/ynf/ynf180707.mp3",
-		"id": 58180707
-	},
-	{
 		"time": "20180708",
 		"title": "学道篇：研经与释经──以经解经",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180708.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ynf20181012/ynf/ynf181012.mp3",
 		"id": 58181012
+	},
+	{
+		"time": "20181013",
+		"title": "学道篇：研经与释经",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181013.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/ynf20181013/ynf/ynf181013.mp3",
+		"id": 58181013
 	}
 ]
