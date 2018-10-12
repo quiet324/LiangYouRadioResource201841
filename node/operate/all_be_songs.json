@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180707",
-		"title": "君王救主——马太福音（10）（讲员：陈湘儿）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180707.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/be20180707/be/be180707.mp3",
-		"id": 36180707
-	},
-	{
 		"time": "20180708",
 		"title": "君王救主——马太福音（11）（讲员：陈湘儿）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180708.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/be20181012/be/be181012.mp3",
 		"id": 36181012
+	},
+	{
+		"time": "20181013",
+		"title": "超越的基督——歌罗西书（1）歌罗西书的产生（讲员：周广亮）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181013.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/be20181013/be/be181013.mp3",
+		"id": 36181013
 	}
 ]
