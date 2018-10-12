@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180707",
-		"title": "因信蒙神能力保守的人（赛33:13-24）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180707.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201827/mw20180707/mw/mw180707.mp3",
-		"id": 30180707
-	},
-	{
 		"time": "20180708",
 		"title": "逆风前行（约16:31-33，17:13-23）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180708.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181012/mw/mw181012.mp3",
 		"id": 30181012
+	},
+	{
+		"time": "20181013",
+		"title": "在神的沉默中等候（约11:1-7）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181013.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201841/mw20181013/mw/mw181013.mp3",
+		"id": 30181013
 	}
 ]
